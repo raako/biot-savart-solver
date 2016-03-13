@@ -1,0 +1,1 @@
+Simple Biot Savart Solver for arbitrarily shaped wires
